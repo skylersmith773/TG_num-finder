@@ -1,4 +1,4 @@
-pip3 install telethon
+
 from telethon import TelegramClient, events, sync
 from telethon.tl.types import InputPhoneContact
 from telethon import functions, types
